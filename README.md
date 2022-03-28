@@ -7,3 +7,8 @@
 
 
 I made a presentation for Bitcoin. In my presentation I talked about what is bitcoin , who invented it, how bitcoin transaction works , advantages and disadvantages of bitcoins and future of bitcoins.  
+
+# Syllabus 
+
+
+[YWCC-307-Syllabus.pdf](https://github.com/FenilRana28200/YWCC-307/files/8366853/YWCC-307-Syllabus.pdf)
